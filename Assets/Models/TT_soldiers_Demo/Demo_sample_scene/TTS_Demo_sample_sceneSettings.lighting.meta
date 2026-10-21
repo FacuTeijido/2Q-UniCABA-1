@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea1490c861e8bdc479a0a8b017a2f164
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 180904
+  packageName: Toony Tiny Soldiers Demo
+  packageVersion: 1.1
+  assetPath: Assets/ToonyTinyPeople/TT_soldiers_Demo/Demo_sample_scene/TTS_Demo_sample_sceneSettings.lighting
+  uploadId: 980982
